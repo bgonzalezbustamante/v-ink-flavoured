@@ -15,6 +15,7 @@ All notable changes to "Vibrant Ink Flavoured RStudio Theme" will be documented 
 ## [0.1.1] - 2021-10-22
 ### Changed
 - Revision of upgrade versioning.
+- Changelog in MD format on GitHub repository.
 
 ## [0.1.0] - 2020-09-24
 ### Added
