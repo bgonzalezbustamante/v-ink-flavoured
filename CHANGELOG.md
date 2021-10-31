@@ -10,6 +10,10 @@ All notable changes to "Vibrant Ink Flavoured RStudio Theme" will be documented 
 ### Changed
 - Gitignore Jekyll.
 
+## [0.1.2] - 2021-10-31
+### Changed
+- Minor corrections.
+
 ## [Released]
 
 ## [0.1.1] - 2021-10-22
@@ -20,6 +24,7 @@ All notable changes to "Vibrant Ink Flavoured RStudio Theme" will be documented 
 ## [0.1.0] - 2020-09-24
 ### Added
 - GitHub repository.
+- README in MD format on GitHub repository.
 - Badges in SVG on GitHub repository.
 - Theme code.
 - Changelog in TXT format on GitHub repository.
