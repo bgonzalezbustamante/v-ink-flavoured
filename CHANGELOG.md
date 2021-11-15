@@ -12,6 +12,12 @@ All notable changes to "Vibrant Ink Flavoured RStudio Theme" will be documented 
 
 ## [Released]
 
+## [0.2.2] - 2021-11-15
+### Added
+- Zenodo DOI.
+### Changed
+- License in MD format on GitHub repository.
+
 ## [0.1.2] - 2021-10-31
 ### Changed
 - Minor corrections.
