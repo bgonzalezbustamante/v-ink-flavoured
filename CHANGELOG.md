@@ -7,6 +7,7 @@ All notable changes to "Vibrant Ink Flavoured RStudio Theme" will be documented 
 ### Added
 - GitHub page powered by Jekyll.
 - Setup instructions.
+- Citation file.
 ### Changed
 - Gitignore Jekyll.
 
