@@ -10,11 +10,11 @@ All notable changes to "Vibrant Ink Flavoured RStudio Theme" will be documented 
 ### Changed
 - Gitignore Jekyll.
 
+## [Released]
+
 ## [0.1.2] - 2021-10-31
 ### Changed
 - Minor corrections.
-
-## [Released]
 
 ## [0.1.1] - 2021-10-22
 ### Changed
