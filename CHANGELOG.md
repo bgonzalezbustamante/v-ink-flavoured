@@ -5,11 +5,11 @@ All notable changes to "Vibrant Ink Flavoured RStudio Theme" will be documented 
 
 ## [1.0.0] - TBC
 ### Added
-- GitHub page powered by Jekyll.
-- Setup instructions.
+- GitHub page powered by Jekyll (deprecated).
+- Setup instructions (WIP).
 - Citation file.
 ### Changed
-- Gitignore Jekyll.
+- Gitignore Jekyll (deprecated).
 
 ## [Released]
 
