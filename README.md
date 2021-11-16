@@ -16,3 +16,10 @@ Follow the steps below:
 - I recommend using this template with "Modern" theme.
 
 <img src="images/rstudio.png" width="800px;"/>
+
+## Contact
+
+Bastián González-Bustamante \
+bastian.gonzalezbustamante@politics.ox.ac.uk \
+https://orcid.org/0000-0003-1510-6820 \
+https://bgonzalezbustamante.com 
