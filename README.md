@@ -11,4 +11,4 @@ Follow the steps below:
 - From the left menu, select "Appearance" and import the **"V-Ink Flavoured.tmTheme"** file with the "Add..." button in the Editor theme section.
 - I recommend using this template with "Modern" theme.
 
-![RStudio](rstudio.png)
+![RStudio](images/rstudio.png)
