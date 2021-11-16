@@ -9,7 +9,7 @@
 
 ## Setup Instructions
 
-Follow the steps below:
+Please, follow the steps below:
 
 - In the menu, select "Tools" and then "Global Options" at the bottom.
 - From the left menu, select "Appearance" and import the **"V-Ink Flavoured.tmTheme"** file with the "Add..." button in the Editor theme section.
