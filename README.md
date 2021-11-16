@@ -5,7 +5,7 @@
 
 ## Appearance
 
-<img src="images/vink.png" width="900px;"/>
+<img src="images/vink.png" width="800px;"/>
 
 ## Setup Instructions
 
@@ -15,4 +15,4 @@ Follow the steps below:
 - From the left menu, select "Appearance" and import the **"V-Ink Flavoured.tmTheme"** file with the "Add..." button in the Editor theme section.
 - I recommend using this template with "Modern" theme.
 
-<img src="images/rstudio.png" width="900px;"/>
+<img src="images/rstudio.png" width="800px;"/>
