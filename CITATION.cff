@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this R theme, please cite it as below."
+message: "If you use this RStudio theme, please cite it as below."
 authors:
 - family-names: "González-Bustamante"
   given-names: "Bastián"
@@ -9,4 +9,4 @@ version: "0.2.2 -- Orange Boat"
 doi: 10.5281/zenodo.5703437
 date-released: 2021-11-15
 url: "https://github.com/bgonzalezbustamante/v-ink-flavoured"
-type: dataset
+type: software-code
