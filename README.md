@@ -24,6 +24,6 @@ bastian.gonzalezbustamante@politics.ox.ac.uk \
 https://orcid.org/0000-0003-1510-6820 \
 https://bgonzalezbustamante.com 
 
-### Latest revision
+### Latest Revision
 
 [November 16, 2021](CHANGELOG.md).
