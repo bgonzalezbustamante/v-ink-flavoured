@@ -17,6 +17,8 @@ Please, follow the steps below:
 
 <img src="images/rstudio.png" width="800px;"/>
 
+## License
+
 ## Contact
 
 Bastián González-Bustamante \
