@@ -5,7 +5,9 @@ authors:
   given-names: "Bastián"
   orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "Vibrant Ink Flavoured RStudio Theme"
-version: 0.2.2
+version: "0.2.2 -- Orange Boat"
 doi: 10.5281/zenodo.5703437
 date-released: 2021-11-15
 url: "https://github.com/bgonzalezbustamante/v-ink-flavoured"
+preferred-citation:
+  type: software
