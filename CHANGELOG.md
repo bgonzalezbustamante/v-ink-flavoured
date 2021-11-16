@@ -7,6 +7,7 @@ All notable changes to "Vibrant Ink Flavoured RStudio Theme" will be documented 
 ### Added
 - Setup instructions.
 - Citation file (WIP).
+- Repository status badge.
 
 ## [Released]
 
