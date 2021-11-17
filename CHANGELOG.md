@@ -4,6 +4,8 @@ All notable changes to "Vibrant Ink Flavoured RStudio Theme" will be documented 
 ## [Unreleased]
 
 ## [1.0.0] - TBC
+### Added
+- Sample code.
 ### Changed
 - Minor corrections.
 - Citation file.
@@ -17,7 +19,6 @@ All notable changes to "Vibrant Ink Flavoured RStudio Theme" will be documented 
 - Repository status badge.
 ### Changed
 - Minor corrections.
-
 
 ## [0.2.2] - 2021-11-15
 ### Added
