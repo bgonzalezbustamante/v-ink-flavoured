@@ -7,7 +7,7 @@
 
 <img src="images/vink.png" width="800px;"/>
 
-## Setup Instructions
+## Getting Started
 
 Please, follow the steps below:
 
