@@ -9,7 +9,7 @@
 
 ## Metadata and Preservation
 
-This theme is stored with version control on a GitHub repository. Furthermore, a Digital Object Identifier (DOI: TBC) is provided by Zenodo.
+This theme is stored with version control on a GitHub repository. Furthermore, a Digital Object Identifier is provided by Zenodo.
 
 ## Store and Backup
 
