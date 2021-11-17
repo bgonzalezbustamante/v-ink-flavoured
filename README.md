@@ -7,7 +7,21 @@
 
 <img src="images/vink.png" width="800px;"/>
 
+## Metadata and Preservation
+
+This theme is stored with version control on a GitHub repository. Furthermore, a Digital Object Identifier (DOI: TBC) is provided by Zenodo.
+
+## Store and Backup
+
+The GitHub repository has controlled access with Two-Factor Authentication (2FA) with two physical USB security devices (Bastián González-Bustamante, [ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)). Both USB keys issue one-time passwords to generate a cryptographic authentication FIDO 2 and U2F.
+
 ## Getting Started
+
+### Software
+
+WIP
+
+### Setup Instructions
 
 Please, follow the steps below:
 
@@ -28,6 +42,10 @@ bastian.gonzalezbustamante@politics.ox.ac.uk \
 https://orcid.org/0000-0003-1510-6820 \
 https://bgonzalezbustamante.com 
 
+## CRediT - Contributor Roles Taxonomy
+
+WIP
+
 ### Latest Revision
 
-[November 16, 2021](CHANGELOG.md).
+[November 17, 2021](CHANGELOG.md).
