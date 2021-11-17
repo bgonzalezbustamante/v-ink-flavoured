@@ -3,15 +3,13 @@ All notable changes to "Vibrant Ink Flavoured RStudio Theme" will be documented 
 
 ## [Unreleased]
 
-## [1.0.0] - 2021-11-17
-### Added
-- Sample code (WIP).
-### Changed
-- Minor corrections.
-- Citation CFF file (WIP).
-
 ## [Released]
 
+## [1.0.0] - 2021-11-17
+### Changed
+- Minor corrections.
+- Citation CFF file.
+- 
 ## [0.3.2] - 2021-11-16
 ### Added
 - Setup instructions.
