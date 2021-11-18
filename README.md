@@ -1,7 +1,7 @@
 # v-ink-flavoured
 **Vibrant Ink Flavoured RStudio Theme**
 
-[![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/v-ink-flavoured.svg)](https://github.com/bgonzalezbustamante/v-ink-flavoured/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/v-ink-flavoured.svg)](https://github.com/bgonzalezbustamante/v-ink-flavoured/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://zenodo.org/badge/409929905.svg)](https://zenodo.org/badge/latestdoi/409929905) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](LICENSE.md)
+[![Version](https://img.shields.io/badge/version-v1.0.1-blue.svg)](CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/v-ink-flavoured.svg)](https://github.com/bgonzalezbustamante/v-ink-flavoured/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/v-ink-flavoured.svg)](https://github.com/bgonzalezbustamante/v-ink-flavoured/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://zenodo.org/badge/409929905.svg)](https://zenodo.org/badge/latestdoi/409929905) [![License](https://img.shields.io/badge/license-CC--BY--4.0-black)](LICENSE.md)
 
 ## Overview
 
@@ -44,4 +44,4 @@ Bastián González-Bustamante ([ORCID iD 0000-0003-1510-6820](https://orcid.org/
 
 ### Latest Revision
 
-[November 17, 2021](CHANGELOG.md).
+[November 18, 2021](CHANGELOG.md).
