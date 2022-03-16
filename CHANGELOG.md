@@ -5,7 +5,9 @@ All notable changes to "Vibrant Ink Flavoured RStudio Theme" will be documented 
 
 ## [Released]
 
-## [1.0.2] - 2022-03-15
+## [1.1.1] - 2022-03-15
+### Added
+- Code of conduct in MD format.
 ### Changed
 - Minor corrections.
 
