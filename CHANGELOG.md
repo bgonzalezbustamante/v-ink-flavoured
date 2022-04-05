@@ -5,11 +5,19 @@ All notable changes to "Vibrant Ink Flavoured RStudio Theme" will be documented 
 
 ## [Released]
 
+## [1.2.1] - 2022-04-05
+### Added
+- MIT-0 license on GitHub repository.
+### Removed
+- License CC BY 4.0 on GitHub repository.
+
 ## [1.1.1] - 2022-03-15
 ### Added
 - Code of conduct in MD format.
 ### Changed
 - Minor corrections.
+### Deprecated
+- License CC BY 4.0 on GitHub repository.
 
 ## [1.0.1] - 2021-11-18
 ### Changed
@@ -50,4 +58,4 @@ All notable changes to "Vibrant Ink Flavoured RStudio Theme" will be documented 
 - Badges in SVG on GitHub repository.
 - Theme code.
 - Changelog in TXT format on GitHub repository.
-- License CC-BY Attribution 4.0 International on GitHub repository.
+- License CC BY 4.0 on GitHub repository.
