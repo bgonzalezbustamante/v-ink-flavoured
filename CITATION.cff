@@ -5,8 +5,8 @@ authors:
   given-names: "Bastián"
   orcid: "https://orcid.org/0000-0003-1510-6820"
 title: "Vibrant Ink Flavoured RStudio Theme"
-version: "1.2.1 -- Snowy Moon"
+version: "1.2.2 -- Misty Sea"
 doi: 10.5281/zenodo.5703436
-date-released: 2022-04-05
+date-released: 2023-02-22
 url: "https://github.com/bgonzalezbustamante/v-ink-flavoured"
 type: software-code
