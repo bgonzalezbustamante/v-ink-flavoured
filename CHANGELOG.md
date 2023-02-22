@@ -5,6 +5,10 @@ All notable changes to "Vibrant Ink Flavoured RStudio Theme" will be documented 
 
 ## [Released]
 
+## [1.2.2] - 2023-02-22
+### Changed
+- Badges in SVG on GitHub repository.
+
 ## [1.2.1] - 2022-04-05
 ### Added
 - MIT-0 license on GitHub repository.
