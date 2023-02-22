@@ -1,7 +1,7 @@
 # v-ink-flavoured
 **Vibrant Ink Flavoured RStudio Theme**
 
-[![Version](https://img.shields.io/badge/version-v1.2.1-blue.svg)](CHANGELOG.md) [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/bgonzalezbustamante/v-ink-flavoured.svg)](https://github.com/bgonzalezbustamante/v-ink-flavoured/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/bgonzalezbustamante/v-ink-flavoured.svg)](https://github.com/bgonzalezbustamante/v-ink-flavoured/issues?q=is%3Aissue+is%3Aclosed) [![DOI](https://zenodo.org/badge/409929905.svg)](https://zenodo.org/badge/latestdoi/409929905) [![License](https://img.shields.io/badge/license-MIT--0-black)](LICENSE.md)
+[![Version](https://raw.githubusercontent.com/bgonzalezbustamante/v-ink-flavoured/main/badges/v_1_2_2.svg)](CHANGELOG.md) [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://raw.githubusercontent.com/bgonzalezbustamante/v-ink-flavoured/main/badges/inactive.svg)](STATUS.md) [![DOI](https://zenodo.org/badge/409929905.svg)](https://zenodo.org/badge/latestdoi/409929905) [![License](https://raw.githubusercontent.com/bgonzalezbustamante/v-ink-flavoured/main/badges/mit_0.svg)](LICENSE.md)  [![tDL](https://raw.githubusercontent.com/bgonzalezbustamante/v-ink-flavoured/main/badges/tDL.svg)](https://training-datalab.com/)
 
 ## Overview
 
