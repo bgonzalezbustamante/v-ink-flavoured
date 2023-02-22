@@ -52,4 +52,4 @@ Bastián González-Bustamante ([ORCID iD 0000-0003-1510-6820](https://orcid.org/
 
 ### Latest Revision
 
-[April 5, 2022](CHANGELOG.md).
+[February 22, 2023](CHANGELOG.md).
